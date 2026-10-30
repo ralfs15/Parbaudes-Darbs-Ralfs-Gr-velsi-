@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+1. Atvēršu žurnālfailu un izpētīšu , Filtrēju rindas , Grupēju kļūdas, Saskaitu ierakstus, Salīdzinu rezultātus 
+
+
+
+
+
+2.Nav nepieciešama teksta apstrāde , jo no procesa objekta var uzreiz tieši atlasīt un filtrēt skaitlisko atmiņas īpašību (piemēram, Where-Object WorkingSet -gt 200MB), neriskējot kļūdīties ar kolonnu atstarpēm vai mērvienībām.
